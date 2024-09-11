@@ -15,8 +15,8 @@ flutter:
         pluginClass: SurveyKitPlugin
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=2.0.0"
+  sdk: '>=2.17.0 <3.0.0'
+  flutter: '>=2.0.0'
 
 dependencies:
   chewie: ^1.4.0
@@ -26,7 +26,7 @@ dependencies:
     sdk: flutter
   flutter_markdown: ^0.6.13
   image_picker: ^0.8.5+3
-  intl: ^0.18.0
+  intl: ^0.19.0
   json_annotation: ^4.0.1
   just_audio: ^0.9.32
   lottie: ^2.1.0
